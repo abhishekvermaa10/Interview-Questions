@@ -109,6 +109,7 @@
     <li>Explain internal working of HashMap?</li>
     <li>Why Java is not pure object oriented language?</li>
     <li>Why to use Getter and Setter methods?</li>
+    <li>What are Parallel Streams in Java?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
