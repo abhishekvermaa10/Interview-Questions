@@ -113,6 +113,7 @@
     <li>What is a ForkJoinPool in Java?</li>
     <li>What is a ReentrantLock?</li>
     <li>What is the difference between PermGen and Metaspace in Java?</li>
+    <li>What are Covariant return types?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
