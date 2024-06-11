@@ -115,6 +115,7 @@
     <li>What is the difference between PermGen and Metaspace in Java?</li>
     <li>What are Covariant return types?</li>
     <li>What is the difference between == and equals() in Java?</li>
+    <li>What is Cyclic Dependency?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
