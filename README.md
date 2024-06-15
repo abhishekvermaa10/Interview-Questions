@@ -118,6 +118,7 @@
     <li>What is Cyclic Dependency?</li>
     <li>What is Thread Safe code?</li>
     <li>What is ThreadLocal?</li>
+    <li>What is Method Reference?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
