@@ -119,6 +119,7 @@
     <li>What is Thread Safe code?</li>
     <li>What is ThreadLocal?</li>
     <li>What is Method Reference?</li>
+    <li>What is Tight Coupling and Loose Coupling?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
