@@ -121,6 +121,7 @@
     <li>What is ThreadLocal?</li>
     <li>What is Method Reference?</li>
     <li>What is Tight Coupling and Loose Coupling?</li>
+    <li>What is Inversion of Control?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
