@@ -123,6 +123,7 @@
     <li>What is Tight Coupling and Loose Coupling?</li>
     <li>What is Inversion of Control?</li>
     <li>What is Dependency Injection?</li>
+    <li>What is a Bean in Spring Framework?</li>
   </ol>
 
   <h3 style="text-align: left;">Goal</h3>
