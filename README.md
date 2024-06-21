@@ -124,6 +124,7 @@
     <li>What is Inversion of Control?</li>
     <li>What is Dependency Injection?</li>
     <li>What is a Bean in Spring Framework?</li>
+    <li>What is Autowiring in Spring?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
