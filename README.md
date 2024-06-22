@@ -126,6 +126,7 @@
     <li>What is a Bean in Spring Framework?</li>
     <li>What is Autowiring in Spring?</li>
     <li>What is @Qualifier?</li>
+    <li>What if the bean mentioned in @Qualifier is not available?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
