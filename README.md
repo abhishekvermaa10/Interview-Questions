@@ -130,8 +130,8 @@
     <li>What is @Primary?</li>
     <li>What if the bean annotated with @Primary is not available?</li>
     <li>What is the difference between @Qualifier and @Primary?</li>
-    <li>What are SOLID principles?</li>
-    <li>What is S in SOLID principles?</li>
+    <li>What are SOLID Principles?</li>
+    <li>What is S in SOLID Principles?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
