@@ -133,6 +133,7 @@
     <li>What are SOLID Principles?</li>
     <li>What is S in SOLID Principles?</li>
     <li>What is O in SOLID Principles?</li>
+    <li>What is L in SOLID Principles?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
