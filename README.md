@@ -136,6 +136,7 @@
     <li>What is L in SOLID Principles?</li>
     <li>What is I in SOLID Principles?</li>
     <li>What is D in SOLID Principles?</li>
+    <li>Is public static void main insignificant in Java now?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
