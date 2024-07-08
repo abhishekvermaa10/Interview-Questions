@@ -137,6 +137,7 @@
     <li>What is I in SOLID Principles?</li>
     <li>What is D in SOLID Principles?</li>
     <li>Is public static void main insignificant in Java now?</li>
+    <li>What are ACID Properties?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
