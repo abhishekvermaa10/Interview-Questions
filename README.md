@@ -138,6 +138,7 @@
     <li>What is D in SOLID Principles?</li>
     <li>Is public static void main insignificant in Java now?</li>
     <li>What are ACID Properties?</li>
+    <li>What is a String Pool?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
