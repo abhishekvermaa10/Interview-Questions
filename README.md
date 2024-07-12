@@ -140,6 +140,7 @@
     <li>What are ACID Properties?</li>
     <li>What is a String Pool?</li>
     <li>What is an Integer Pool?</li>
+    <li>How does intern() method works?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
