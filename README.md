@@ -144,6 +144,7 @@
     <li>What is A in ACID Properties?</li>
     <li>What is C in ACID Properties?</li>
     <li>What is I in ACID Properties?</li>
+    <li>What is D in ACID Properties?</li>
     <li>Can static variables be autowired in Spring?</li>
 </ol>
 
