@@ -146,6 +146,7 @@
     <li>What is I in ACID Properties?</li>
     <li>What is D in ACID Properties?</li>
     <li>Can static variables be autowired in Spring?</li>
+    <li>What is spring-boot-starter-parent?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
