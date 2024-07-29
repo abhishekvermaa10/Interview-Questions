@@ -149,6 +149,7 @@
     <li>What is spring-boot-starter-parent?</li>
     <li>What is spring-boot-starter dependency?</li>
     <li>What is the difference between Spring and Spring Boot?</li>
+    <li>What should we use in finance related logic - Double or BigDecimal?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
