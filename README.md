@@ -154,6 +154,7 @@
     <li>Can we delete the application.properties file in Spring Boot?</li>
     <li>What is Scope in Spring Boot?</li>
     <li>What is Spring Initializr?</li>
+    <li>What is CommandLineRunner?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
