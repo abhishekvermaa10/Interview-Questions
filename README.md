@@ -160,7 +160,7 @@
 <h3 style="text-align: left;">Goal</h3>
 <hr>
 <p style="text-align: left;">
-    Answer to these questions is availabl in my YouTube shorts and Instagram reels. I am not sharing any answer here
+    Answer to these questions is available in my YouTube shorts and Instagram reels. I am not sharing any answer here
     because goal is not to provide you questions and answers which you need to cram before interview, but to provide you
     idea that which question I have answered on which day. It will be always better to go through all questions at your
     own pace, understand my way of explaning and then create your own answer.
