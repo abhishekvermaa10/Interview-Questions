@@ -155,6 +155,7 @@
     <li>What is Scope in Spring Boot?</li>
     <li>What is Spring Initializr?</li>
     <li>What is CommandLineRunner?</li>
+    <li>How to implement Logging in Spring Boot?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
