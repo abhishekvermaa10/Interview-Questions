@@ -157,6 +157,7 @@
     <li>What is CommandLineRunner?</li>
     <li>How to implement Logging in Spring Boot?</li>
     <li>What is ConcurrentHashMap?</li>
+    <li>What is better: application.properties or application.yml?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
