@@ -162,6 +162,7 @@
     <li>What is the difference between @Component and @Bean?</li>
     <li>How to sort 10GB of data with 1GB of RAM?</li>
     <li>Explain the working of MVC?</li>
+    <li>What is the difference between @Controller and @RestController?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
