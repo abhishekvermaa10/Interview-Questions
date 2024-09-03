@@ -164,6 +164,7 @@
     <li>Explain the working of MVC?</li>
     <li>What is the difference between @Controller and @RestController?</li>
     <li>What are Virtual Threads?</li>
+    <li>What is @SpringBootTest?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
