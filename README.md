@@ -165,6 +165,7 @@
     <li>What is the difference between @Controller and @RestController?</li>
     <li>What are Virtual Threads?</li>
     <li>What is @SpringBootTest?</li>
+    <li>What is Spring Boot DevTools?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
