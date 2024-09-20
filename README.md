@@ -167,6 +167,7 @@
     <li>What is @SpringBootTest?</li>
     <li>What is Spring Boot DevTools?</li>
     <li>What is Spring Data JPA?</li>
+    <li>SQL to find employee with Nth highest salary?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
