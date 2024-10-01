@@ -170,6 +170,7 @@
     <li>SQL to find employee with Nth highest salary?</li>
     <li>What is CompletableFuture?</li>
     <li>What is the difference between Future and CompletableFuture?</li>
+    <li>What is Object/Relational Impedance Mismatch?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
