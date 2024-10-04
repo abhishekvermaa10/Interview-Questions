@@ -171,6 +171,7 @@
     <li>What is CompletableFuture?</li>
     <li>What is the difference between Future and CompletableFuture?</li>
     <li>What is Object/Relational Impedance Mismatch?</li>
+    <li>What is the difference between EntityManager and EntityManagerFactory?</li>
 </ol>
 
 <h3 style="text-align: left;">Goal</h3>
