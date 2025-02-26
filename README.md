@@ -1,12 +1,13 @@
-<h3 style="text-align: left;">Interview Questions</h3>
-<hr>
-<p style="text-align: left;">
-    This repository contains list of interview questions answered in videos.
+<h1 align="center">Interview Questions</h1>
+
+<p align="justify">
+    This repository contains list of interview questions answered in my YouTube and Instagram videos.
 </p>
 
-<h3 style="text-align: left;">Table of Contents</h3>
 <hr>
-<ol style="text-align: left;">
+
+<h3 align="left">📌 Table of Contents</h3>
+<ol>
     <li>What is Functional Interface?</li>
     <li>Whether Java is Interpreted or Compiled language?</li>
     <li>What is Singleton class?</li>
@@ -174,18 +175,20 @@
     <li>What is the difference between EntityManager and EntityManagerFactory?</li>
 </ol>
 
-<h3 style="text-align: left;">Goal</h3>
 <hr>
-<p style="text-align: left;">
+
+<h3 align="left">Goal</h3>
+<p align="justify">
     Answer to these questions is available in my YouTube shorts and Instagram reels. I am not sharing any answer here
     because goal is not to provide you questions and answers which you need to cram before interview, but to provide you
     idea that which question I have answered on which day. It will be always better to go through all questions at your
     own pace, understand my way of explaning and then create your own answer.
 </p>
 
-<h3 style="text-align: left;">🎥 YouTube Tutorial</h3>
 <hr>
-<p style="text-align: left;">
+
+<h3 align="left">🎥 YouTube Tutorial</h3>
+<p align="justify">
     Answers have been explained in an easy way on my YouTube channel <a
         href="https://www.youtube.com/@abhishekvermaa10?sub_confirmation=1" target="_blank">Abhishek Verma</a> and on
     Instagram <a href="https://www.instagram.com/abhishekvermaa10" target="_blank">Abhishek Verma</a>.
